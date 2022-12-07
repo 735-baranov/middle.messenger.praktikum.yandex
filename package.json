@@ -1,0 +1,19 @@
+{
+  "name": "middle.messenger.praktikum.yandex",
+  "version": "1.0.0",
+  "description": "do sprint 1 on yandpr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/735-baranov/middle.messenger.praktikum.yandex.git"
+  },
+  "author": "baranov_d_a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/735-baranov/middle.messenger.praktikum.yandex/issues"
+  },
+  "homepage": "https://github.com/735-baranov/middle.messenger.praktikum.yandex#readme"
+}
